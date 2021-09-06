@@ -5,6 +5,6 @@ SK Demo repository user03
 ### 
 Subject
 
-'''
+```
 apt-get udate -y
-'''
+```
